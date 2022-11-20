@@ -121,6 +121,7 @@ s.listen(5)
 
 
 print("Available Items")
+print("________________")
 print("Product\tQuantity")
 print("Mango\t%d" % mango)
 print("Orange\t%d" % orange)
